@@ -18,7 +18,7 @@ that produced it.
 
 ## Open-source work
 
-Specific changes I've submitted with AI assistance:
+Specific changes I've submitted:
 
 - [Nashpy: local random generators for fictitious play](https://github.com/drvinceknight/Nashpy/pull/255), with tests for reproducibility and random-state isolation.
 - [PyPortfolioOpt: warnings for non-positive prices](https://github.com/PyPortfolio/PyPortfolioOpt/pull/779), with tests for Series, DataFrames and return estimators.
